@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Project-rest.iml" filepath="$PROJECT_DIR$/.idea/Project-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-rest-5/Lesson3RESTDemo/SpringBootServlet.iml" filepath="$PROJECT_DIR$/project-rest-5/Lesson3RESTDemo/SpringBootServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fruits-app/fruits-app.iml" filepath="$PROJECT_DIR$/fruits-app/fruits-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-rest-2/project-rest-2.iml" filepath="$PROJECT_DIR$/project-rest-2/project-rest-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-rest-3/project-rest-3.iml" filepath="$PROJECT_DIR$/project-rest-3/project-rest-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-rest-4/project-rest-4.iml" filepath="$PROJECT_DIR$/project-rest-4/project-rest-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-rest-5/project-rest-5.iml" filepath="$PROJECT_DIR$/project-rest-5/project-rest-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-rest-6/project-rest-6.iml" filepath="$PROJECT_DIR$/project-rest-6/project-rest-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-rest1/project-rest1.iml" filepath="$PROJECT_DIR$/project-rest1/project-rest1.iml" />
+    </modules>
+  </component>
+</project>
